@@ -24,6 +24,7 @@
         "license": "MIT",
         "source": "https://github.com/JohnEstropia/CoreStore",
         "stars": 1712,
+        "tags": ["Swift"],
         "screenshots": ["https://cloud.githubusercontent.com/assets/3029684/13373932/84daee2a-ddb8-11e5-99db-fdf415620102.png"],
         "date_added": "Nov 28 2017",
         "suggested_by": "@github_username"
@@ -35,6 +36,7 @@
         "license": "MIT",
         "source": "https://github.com/arkverse/SwiftRecord",
         "stars": 167,
+        "tags": ["Swift"],
         "screenshots": [""],
         "date_added": "Nov 28 2017",
         "suggested_by": "@github_username"
@@ -46,6 +48,7 @@
         "license": "MIT",
         "source": "https://github.com/carambalabs/SugarRecord",
         "stars": 1964,
+        "tags": ["Swift"],
         "screenshots": ["https://github.com/carambalabs/SugarRecord/raw/master/Assets/Caramba.png"],
         "date_added": "Nov 28 2017",
         "suggested_by": "@github_username"
@@ -57,6 +60,7 @@
         "license": "MIT",
         "source": "https://github.com/3lvis/Sync",
         "stars": 2055,
+        "tags": ["Swift"],
         "screenshots": ["https://raw.githubusercontent.com/3lvis/Sync/master/Images/logo-v3.png"],
         "date_added": "Nov 28 2017",
         "suggested_by": "@github_username"
