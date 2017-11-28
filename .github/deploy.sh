@@ -25,4 +25,4 @@ then
   git commit -m "[auto] [ci skip] Generate APPSTORE"
 fi
 
-git push --quiet "https://${GH_TOKEN}@github.com/dkhamsing/open-source-ios-apps" master:master > /dev/null 2>&1
+git push --quiet "https://${GH_TOKEN}@github.com/mjhassan/Daily-iOS" master:master > /dev/null 2>&1

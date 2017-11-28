@@ -25,6 +25,6 @@ To create a new category, please open an issue (see CONTRIBUTING) -->
             "suggested_by": "@github_username"
 }
 
-For more information, read https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md
+For more information, read https://github.com/mjhassan/Daily-iOS/blob/master/.github/CONTRIBUTING.md
 
 -->

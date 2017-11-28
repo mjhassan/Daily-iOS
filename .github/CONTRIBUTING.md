@@ -16,4 +16,4 @@ A new entry should update **contents.json** with this format:
 
 :tada:
 
-For more information, please read https://github.com/dkhamsing/open-source-ios-apps/wiki
+For more information, please read https://github.com/mjhassan/Daily-iOS/wiki
