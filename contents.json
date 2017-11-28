@@ -1,0 +1,89 @@
+{
+  "title": "Daily-iOS",
+  "subtitle": "A curated list of awesome iOS libraries, will be needed frequently to build an app.",
+  "description": "<!-- \n⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ \n https://github.com/dkhamsing/open-source-ios-apps -->",
+  "header": "```\n 100+ Stars: 🔥\n 200+ Stars: 🔥🔥\n 500+ Stars: 🔥🔥🔥\n1000+ Stars: 🔥🔥🔥🔥\n2000+ Stars: 🔥🔥🔥🔥🔥\n\nProjects are in English unless indicated by flags \n🇨🇳 Project is in Chinese\n🇪🇸 Project is in Spanish\n... \n\nClick ► to show more details\n```",
+  "footer": "## Thanks\n\nThis list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios), [awesome-swift](https://github.com/matteocrippa/awesome-swift), and design is inspired by [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps). 🎉 \n\n## Contact\n\n- [github.com/mjhassan](https://github.com/mjhassan)\n- [twitter.com/posaidon](https://twitter.com/posaidon)\n",
+  "categories": [
+    {
+      "title": "Data storage",
+      "id": "data-storage"
+    },
+    {
+        "title": "Core Data",
+        "id": "core-data",
+        "parent": "data-storage",
+        "description": "dummy description"
+    }
+  ],
+  "projects": [
+    //   {
+    //   "title": "Name of the app",
+    //   "category-ids": ["Category id"],
+    //   "description": "What this app does",
+    //   "source": "Link to source, usually GitHub",
+    //   "screenshots": ["http://something.com/image.png"],
+    //   "date_added": "Aug 6 2016",
+    //   "suggested_by": "@github_username"
+    //   }
+
+    // "title": "EX Player",
+    // "category-ids": [
+    //   "apple-tv"
+    // ],
+    // "description": "Watch videos from EX.UA file sharing",
+    // "license": "lgpl-2.1",
+    // "source": "https://github.com/IGRSoft/exTVPlayer",
+    // "stars": 17,
+    // "screenshots": [
+    //   "https://raw.githubusercontent.com/IGRSoft/exTVPlayer/master/Screenshots/4.png"
+    // ],
+    // "date_added": "Tue Feb 9 14:02:53 2016 +0200",
+    // "suggested_by": "Vitalii Parovishnyk"
+
+    {
+        "title": "CoreStore",
+        "category-ids": ["core-data"],
+        "description": "Unleashing the real power of Core Data with the elegance and safety of Swift",
+        "license": "MIT",
+        "source": "https://github.com/JohnEstropia/CoreStore",
+        "stars": 1712,
+        "screenshots": ["https://cloud.githubusercontent.com/assets/3029684/13373932/84daee2a-ddb8-11e5-99db-fdf415620102.png"],
+        "date_added": "Nov 28 2017",
+        "suggested_by": "@github_username"
+    },
+    {
+        "title": "SwiftRecord",
+        "category-ids": ["core-data"],
+        "description": "ActiveRecord for Swift. Easy Core Data",
+        "license": "MIT",
+        "source": "https://github.com/arkverse/SwiftRecord",
+        "stars": 167,
+        "screenshots": [""],
+        "date_added": "Nov 28 2017",
+        "suggested_by": "@github_username"
+    },
+    {
+        "title": "SugarRecord",
+        "category-ids": ["core-data"],
+        "description": "CoreData/Realm sweet wrapper written in Swift",
+        "license": "MIT",
+        "source": "https://github.com/carambalabs/SugarRecord",
+        "stars": 1964,
+        "screenshots": ["https://github.com/carambalabs/SugarRecord/raw/master/Assets/Caramba.png"],
+        "date_added": "Nov 28 2017",
+        "suggested_by": "@github_username"
+    },
+    {
+        "title": "Sync",
+        "category-ids": ["core-data"],
+        "description": "JSON to Core Data and back. Swift Core Data Sync.",
+        "license": "MIT",
+        "source": "https://github.com/3lvis/Sync",
+        "stars": 2055,
+        "screenshots": ["https://raw.githubusercontent.com/3lvis/Sync/master/Images/logo-v3.png"],
+        "date_added": "Nov 28 2017",
+        "suggested_by": "@github_username"
+    }
+  ]
+}
