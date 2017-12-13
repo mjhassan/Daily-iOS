@@ -2,13 +2,15 @@
 
 A curated list of awesome iOS libraries, will be needed frequently to build an app.
 
+##Animation
+https://github.com/airbnb/lottie-ios
 
 ## Image gallery / viewer
-https://github.com/Yalantis/DisplaySwitcher
-https://github.com/bakkenbaeck/Viewer
-https://github.com/mwaterfall/MWPhotoBrowser
-https://github.com/tungvoduc/DTPhotoViewerController
-https://github.com/inspace-io/INSPhotoGallery
+https://github.com/Yalantis/DisplaySwitcher<br/>
+https://github.com/bakkenbaeck/Viewer<br/>
+https://github.com/mwaterfall/MWPhotoBrowser<br/>
+https://github.com/tungvoduc/DTPhotoViewerController<br/>
+https://github.com/inspace-io/INSPhotoGallery<br/>
 
 ## Cache
 https://github.com/Haneke/HanekeSwift<br/>
