@@ -2,7 +2,7 @@
 
 A curated list of awesome iOS libraries, will be needed frequently to build an app.
 
-##Animation
+## Animation
 https://github.com/airbnb/lottie-ios
 
 ## Image gallery / viewer
