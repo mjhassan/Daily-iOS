@@ -175,7 +175,9 @@ https://github.com/google/google-api-objectivec-client
 https://github.com/HarriesChen/HHAlertView
 https://github.com/remirobert/Camembert
 https://github.com/bvogelzang/SevenSwitch
-
+https://github.com/mattt/Surge
+https://github.com/viniciusaro/ios-bar-chart-view
+https://github.com/signalapp/Signal-iOS
 
 ## Animation
 https://github.com/airbnb/lottie-ios<br/>
